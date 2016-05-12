@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyAppHome02</string>
+
+    <string name="strfragment01">Fragment01</string>
+    <string name="strfragment02">Fragment02</string>
+    <string name="strfragment03">Fragment03</string>
+</resources>
